@@ -1,4 +1,4 @@
-# Image: globegitter/alpine-yarn:node-8.1.3-0.27.5
+# Image: globegitter/alpine-yarn:0.27.5-node-8.1.3
 FROM alpine:3.6
 
 ENV NODE_VERSION=v8.1.3 YARN_VERSION=0.27.5
